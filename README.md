@@ -9,6 +9,6 @@
 6. [Better Window/Tab Management](https://github.com/lana-20/selenium4-new-window)
 7. Modified Actions Class
 8. [Improved Documentation](https://www.selenium.dev/selenium/docs/api/py/api.html)
+9. [Selenium Manager - beta as of Dec. 25, 2022](https://www.selenium.dev/blog/2022/introducing-selenium-manager/)
 
-#TODO - deets
 
