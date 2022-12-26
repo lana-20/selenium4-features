@@ -6,7 +6,7 @@
 3. Relative/Friendly Locators
 4. Deprecated DesiredCapabilties
 5. Chrome DevTools Debugging
-6. Better Window/Tab Management
+6. [Better Window/Tab Management](https://github.com/lana-20/selenium4-new-window)
 7. Modified Actions Class
 8. Improved Documentation
 
